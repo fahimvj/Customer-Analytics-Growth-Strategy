@@ -9,6 +9,8 @@
 **Date:** July 2025  
 **Dataset:** UK E-Commerce Transactions (2010-2011)
 
+https://www.kaggle.com/datasets/carrie1/ecommerce-data/data
+
 ---
 
 ## 📊 Project Overview
